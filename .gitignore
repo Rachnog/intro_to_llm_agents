@@ -1,4 +1,6 @@
 myconfig.yml
+wandb/
+test_notebooks/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
