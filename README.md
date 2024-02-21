@@ -10,6 +10,8 @@ You need to install the following libraries in a fresh .venv environment:
 ! pip install faiss-cpu
 ! pip install langchainhub
 ! pip install -U wandb
+! pip install crewai
+! pip install duckduckgo-search
 ```
 
 Then, ensure that you have registered in the following services and got the API key stored in the configuration file:
