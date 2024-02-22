@@ -9,7 +9,7 @@ Link to the YouTube recording will be here soon.
 1. Planning and reasining [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SplDwEIbVfo9zNt6JOK0gJlV0wCNuz0F?usp=sharing)
 2. Different types of memories [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13b_pD27aqcNXYI2M7fBxK1fRIO2pygZJ?usp=sharing)
 3. Various types of tools [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-VpwkmSvzA-zQ_iVK-xjOQf5kA-Lzwg9?usp=sharing)
-4. Building complete agents [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+4. Building complete agents [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aC9AUNNYYz36atE8BUJH4fZIfknHa9Pk?usp=sharing)
 # Project setup
 
 You need to install the following libraries in a fresh .venv environment:
