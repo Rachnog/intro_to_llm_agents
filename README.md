@@ -2,7 +2,7 @@
 
 This is a workshop to introduce the concept of LLM agents and how to build them using the Langchain platform.
 Hosted by [Neurons Lab](https://neurons-lab.com/) and led by me, [Alex Honchar](https://www.alexhonchar.com/).
-Link to the YouTube recording will be here soon.
+The link to the YouTube recording is [here](https://www.youtube.com/watch?v=uVkS05qPhik).
 
 # Run in Google Colab
 
